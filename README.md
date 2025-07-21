@@ -6,15 +6,15 @@ This repository documents my step-by-step journey to becoming an AI/ML Engineer.
 
 ## 🧠 Project Structure
 
-### 1. Linear Regression (01_Linear_Regression/)
+### 1. [Linear Regression](01_Linear_Regression/)
 - Implemented a simple linear regression model from scratch.
 - Used gradient descent for optimization.
 
-### 2. Shallow Neural Network (02_Shallow_Neural_Network/)
+### 2. [Logistic Regression](02_Logistic_Regression/)
 - 2-layer neural network (1 hidden layer).
 - Implemented forward and backward propagation manually.
 
-### 3. Deep Neural Network for Binary Image Classification (03_Deep_Neural_Network/)
+### 3. [Deep Neural Network for Binary Image Classification](03_Deep_Neural_Network/)
 - Trained on a **Cat vs. Dog** dataset (5000 images each).
 - Implemented:
   - Deep architectures with customizable layers
@@ -27,7 +27,7 @@ This repository documents my step-by-step journey to becoming an AI/ML Engineer.
 - Achieved **76% Test Accuracy** without any high-level libraries.
 
 📸 **Result:**
-![76% Accuracy](03_Deep_Neural_Network/results/test_accuracy_76_percent.png)
+![76% Accuracy](Results/Result.png)
 
 ---
 
